@@ -8,5 +8,8 @@
     <artifactId>apache-camel</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>file-copier</module>
+    </modules>
 
 </project>
