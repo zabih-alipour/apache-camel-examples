@@ -7,9 +7,11 @@
     <groupId>com.alipour.learning</groupId>
     <artifactId>apache-camel</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <modules>
         <module>file-copier</module>
+        <module>activemq-camel</module>
     </modules>
 
 </project>
